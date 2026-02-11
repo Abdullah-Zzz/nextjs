@@ -1,0 +1,7 @@
+export default function Orders(){
+    return (
+        <div className="shadow-xs shadow-slate-700 p-2 border-r-2 w-full h-36">
+            Orders
+        </div>
+    )
+}
